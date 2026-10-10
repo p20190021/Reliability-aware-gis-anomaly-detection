@@ -1,0 +1,8 @@
+dataset,role_in_manuscript,provider,product,source_or_access,temporal_coverage,public_repo_policy
+DEM (DTM),Elevation and terrain features,Environment Agency,"LiDAR Composite DTM; 2022; 1 m",https://environment.data.gov.uk/survey,2022,"Obtain from provider; do not bundle raw raster"
+Land Cover Map 2022,Land-cover classes and seven one-hot indicators,UKCEH,"Land Cover Map 2022; 10 m classified pixels",https://catalogue.ceh.ac.uk/documents/1e09f53f-55de-4960-b2a1-da2a42029e7e,2022,"Provider-licensed; users obtain from UKCEH; do not redistribute raw raster"
+OS Open Rivers,River proximity / flow connectivity,Ordnance Survey,OS Open Rivers,https://osdatahub.os.uk/downloads/open/OpenRivers,Latest open release used,Obtain from provider
+OS Open Roads,Road proximity,Ordnance Survey,OS Open Roads,https://osdatahub.os.uk/downloads/open/OpenRoads,Latest open release used,Obtain from provider
+Risk of Flooding from Rivers and Sea,Flood-context reference,Environment Agency,RoFRS,https://environment.data.gov.uk/explore/96ab4342-82c1-4095-87f1-0082e8d84ef1?download=true,2024 release,Obtain from provider
+Risk of Flooding from Surface Water,Flood-context reference,Environment Agency,RoFSW,https://environment.data.gov.uk/explore/b5aaa28d-6eb9-460e-8d6f-43caa71fbe0e?download=true,2024 release,Obtain from provider
+Sentinel-2 median composite,"NDVI; NDWI; NDBI surface features",Copernicus Sentinel-2 via Google Earth Engine,"Median composite used by the Chelmsford pilot","Regenerate through GEE/API; exact collection/date/cloud filters to be documented","Oct 2024-May 2025","Do not bundle large raster; provide acquisition/preprocessing instructions"

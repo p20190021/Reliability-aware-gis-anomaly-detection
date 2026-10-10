@@ -1,0 +1,32 @@
+# Raw/processed geospatial data
+data/raw/
+data/processed/
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.gpkg
+
+# Large arrays/models
+*.npy
+*.npz
+*.pkl
+*.pt
+*.pth
+
+# Generated outputs
+outputs/
+checkpoints/
+PUBLIC_REPRODUCTION_FULL_PURE/
+REPRODUCIBILITY_CANONICAL/
+
+# Notebook/Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the associated research article."
+title: "Reliability-Aware Multi-View Anomaly Detection for Heterogeneous GIS Data"
+type: software
+version: 1.0.0
+date-released: 2026-10-10
+license: MIT
+authors:
+  - family-names: Agrawal
+    given-names: Ankit
+    email: ankit.agrawal@lut.fi
+    affiliation: LUT University
+  - family-names: Kumar
+    given-names: Prabhat
+    email: prabhat.kumar@lut.fi
+    affiliation: LUT University
+  - family-names: Islam
+    given-names: Najmul
+    email: najmul.islam@lut.fi
+    affiliation: LUT University
+keywords:
+  - anomaly detection
+  - GIS
+  - geospatial data
+  - multi-view learning
+  - reliability-aware scoring
+  - data quality

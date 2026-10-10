@@ -1,0 +1,30 @@
+{
+  "valid_mask": "valid_mask_1.npy",
+  "full": {
+    "spatial_p1": 0.012370638884603977,
+    "spatial_p99": 2.3806158638000454,
+    "refined_p1": 0.07122573867440224,
+    "refined_p99": 0.6329571437835693,
+    "uncertainty_min": 0.009014489129185677,
+    "uncertainty_max": 0.47640731930732727,
+    "final_p1": 3.0528368206701416e-08,
+    "final_p99": 0.30112632721662513
+  },
+  "pure": {
+    "spatial_p1": 0.01220288684591651,
+    "spatial_p99": 3.018551249504082,
+    "refined_p1": 0.01634314626455307,
+    "refined_p99": 0.8010389471054076,
+    "uncertainty_min": 0.0,
+    "uncertainty_max": 0.4714045226573944,
+    "final_p1": 2.701113479551551e-09,
+    "final_p99": 0.3048635554313659
+  },
+  "n_samples": 4290958,
+  "top_fraction": 0.02,
+  "alpha": 0.75,
+  "beta": 0.25,
+  "lambda_agreement": 0.6,
+  "lambda_certainty": 0.4,
+  "spatial_window": 5
+}
